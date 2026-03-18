@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DiskBar</title>
+        <item>
+            <title>2.1</title>
+            <pubDate>Thu, 19 Mar 2026 00:36:24 +0530</pubDate>
+            <sparkle:version>2.1</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saiff99/diskbar/releases/download/v2.1/DiskBar.zip" length="1214755" type="application/octet-stream" sparkle:edSignature="DtzU7GjuReWuiRmq3Y0TDIaYUTLD2ikAWnTfIUoXYqbxAmPDili7KFOuxafN0RKQtGQwXfDS4/nSOwFiAgAaBQ=="/>
+        </item>
+    </channel>
+</rss>
