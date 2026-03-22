@@ -8,7 +8,7 @@
             <sparkle:version>1.3</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <enclosure url="#" length="1214755" type="application/octet-stream" sparkle:edSignature="DtzU7GjuReWuiRmq3Y0TDIaYUTLD2ikAWnTfIUoXYqbxAmPDili7KFOuxafN0RKQtGQwXfDS4/nSOwFiAgAaBQ=="/>
+            <enclosure url="https://github.com/saiff99/diskbar/releases/download/v1.3/DiskBar.zip" length="1214755" type="application/octet-stream" sparkle:edSignature="DtzU7GjuReWuiRmq3Y0TDIaYUTLD2ikAWnTfIUoXYqbxAmPDili7KFOuxafN0RKQtGQwXfDS4/nSOwFiAgAaBQ=="/>
         </item>
     </channel>
 </rss>
